@@ -33,10 +33,10 @@ A community-maintained list of projects building on [Miden](https://miden.xyz/ec
 
 #### Wallet
 
-| Protocol             | Category | Description                            | Website                                   | Twitter/X                            | GitHub                                                        |
-| -------------------- | -------- | -------------------------------------- | ----------------------------------------- | ------------------------------------ | ------------------------------------------------------------- |
-| Miden Browser Wallet | Wallet   | In-browser Wallet for Easy Payments    | [Website](https://midenbrowserwallet.com) | [Twitter](https://x.com/0xnullifier) | [Github](https://github.com/0xnullifier/miden-browser-wallet) |
-| Miden Wallet (Ext.)  | Wallet   | Privacy-first browser extension wallet | [Website](https://miden.fi)               | [Twitter](https://x.com/MidenWallet) | –                                                             |
+| Protocol             | Category | Description                         | Website                                   | Twitter/X                            | GitHub                                                        |
+| -------------------- | -------- | ----------------------------------- | ----------------------------------------- | ------------------------------------ | ------------------------------------------------------------- |
+| Miden Browser Wallet | Wallet   | In-browser Wallet for Easy Payments | [Website](https://midenbrowserwallet.com) | [Twitter](https://x.com/0xnullifier) | [Github](https://github.com/0xnullifier/miden-browser-wallet) |
+| Miden Wallet (Ext.)  | Wallet   | Browser extension wallet            | [Website](https://miden.fi)               | [Twitter](https://x.com/MidenWallet) | –                                                             |
 
 #### DEX / AMM
 
