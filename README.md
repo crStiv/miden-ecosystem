@@ -4,6 +4,7 @@ A community-maintained list of projects building on [Miden](https://miden.xyz/ec
 
 ### Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Projects](#projects)
   - [Payments](#payments)
   - [Bridge](#bridge)
@@ -20,57 +21,56 @@ A community-maintained list of projects building on [Miden](https://miden.xyz/ec
 
 #### Payments
 
-| Protocol     | Category | Description                   | Website                         | Twitter/X                             | Status  |
-| ------------ | -------- | ----------------------------- | ------------------------------- | ------------------------------------- | ------- |
-| Qash | Payments | Programmable Private Payments | [Website](https://qash.finance) | [Twitter](https://x.com/qash_finance) | Testnet |
+| Protocol | Category | Description                   | Website                         | Twitter/X                             | GitHub                                   |
+| -------- | -------- | ----------------------------- | ------------------------------- | ------------------------------------- | ---------------------------------------- |
+| Qash     | Payments | Programmable Private Payments | [Website](https://qash.finance) | [Twitter](https://x.com/qash_finance) | [Github](https://github.com/q3x-finance) |
 
 #### Bridge
 
-| Protocol      | Category | Description             | Website | Twitter/X                             | Status |
-| ------------- | -------- | ----------------------- | ------- | ------------------------------------- | ------ |
-| Dome Protocol | Bridge   | Compliant Onchain Mixer | –       | [Twitter](https://x.com/DomeProtocol) | WIP    |
+| Protocol      | Category | Description             | Website | Twitter/X                             | GitHub                                                             |
+| ------------- | -------- | ----------------------- | ------- | ------------------------------------- | ------------------------------------------------------------------ |
+| Dome Protocol | Bridge   | Compliant Onchain Mixer | –       | [Twitter](https://x.com/DomeProtocol) | [Github](https://github.com/arcane-finance-defi/miden-bridge-mono) |
 
 #### Wallet
 
-| Protocol             | Category | Description                            | Website                                   | Twitter/X | Status  |
-| -------------------- | -------- | -------------------------------------- | ----------------------------------------- | --------- | ------- |
-| Miden Browser Wallet | Wallet   | In-browser Wallet for Easy Payments    | [Website](https://midenbrowserwallet.com) | [Twitter](https://x.com/0xnullifier)         | Testnet |
-| Miden Wallet (Ext.)  | Wallet   | Privacy-first browser extension wallet | [Website](https://miden.fi)               | [Twitter](https://x.com/MidenWallet)         | Testnet |
+| Protocol             | Category | Description                            | Website                                   | Twitter/X                            | GitHub                                                        |
+| -------------------- | -------- | -------------------------------------- | ----------------------------------------- | ------------------------------------ | ------------------------------------------------------------- |
+| Miden Browser Wallet | Wallet   | In-browser Wallet for Easy Payments    | [Website](https://midenbrowserwallet.com) | [Twitter](https://x.com/0xnullifier) | [Github](https://github.com/0xnullifier/miden-browser-wallet) |
+| Miden Wallet (Ext.)  | Wallet   | Privacy-first browser extension wallet | [Website](https://miden.fi)               | [Twitter](https://x.com/MidenWallet) | –                                                             |
 
 #### DEX / AMM
 
-| Protocol          | Category  | Description                        | Website | Twitter/X                           | Status |
-| ----------------- | --------- | ---------------------------------- | ------- | ----------------------------------- | ------ |
-| Zoro (by NablaFi) | DEX / AMM | Public/Private Oracle-informed AMM | [Website](https://www.nabla.fi/)       | [Twitter](https://x.com/NablaFi)    | WIP    |
-| Encrype           | DEX / AMM | AI-powered OTC trading for Miden   | [Website](http://encrype.com/)       | [Twitter](https://x.com/useencrype) | WIP    |
+| Protocol          | Category  | Description                        | Website                          | Twitter/X                           | GitHub |
+| ----------------- | --------- | ---------------------------------- | -------------------------------- | ----------------------------------- | ------ |
+| Zoro (by NablaFi) | DEX / AMM | Public/Private Oracle-informed AMM | [Website](https://www.nabla.fi/) | [Twitter](https://x.com/NablaFi)    | –      |
+| Encrype           | DEX / AMM | AI-powered OTC trading for Miden   | [Website](http://encrype.com/)   | [Twitter](https://x.com/useencrype) | –      |
 
 #### Multisig
 
-| Protocol    | Category | Description                           | Website | Twitter/X                            | Status |
-| ----------- | -------- | ------------------------------------- | ------- | ------------------------------------ | ------ |
-| Elder       | Multisig | Privacy-preserving multisig for teams | –       | [Twitter](https://x.com/0xElderLabs) | WIP    |
-| Inicio Labs | Multisig | Private Multisig Solution             | –       | –                                    | WIP    |
+| Protocol    | Category | Description                           | Website | Twitter/X                            | GitHub                                                   |
+| ----------- | -------- | ------------------------------------- | ------- | ------------------------------------ | -------------------------------------------------------- |
+| Elder       | Multisig | Privacy-preserving multisig for teams | –       | [Twitter](https://x.com/0xElderLabs) | –                                                        |
+| Inicio Labs | Multisig | Private Multisig Solution             | –       | –                                    | [Github](https://github.com/inicio-labs/miden-multi-sig) |
 
 #### Lending
 
-| Protocol | Category | Description                         | Website | Twitter/X | Status |
-| -------- | -------- | ----------------------------------- | ------- | --------- | ------ |
-| PrivyFi  | Lending  | Lending primitives for private DeFi | –       | –         | WIP    |
+| Protocol | Category | Description                         | Website                         | Twitter/X                        | GitHub |
+| -------- | -------- | ----------------------------------- | ------------------------------- | -------------------------------- | ------ |
+| PrivyFi  | Lending  | Lending primitives for private DeFi | [Website](https://privyfi.com/) | [Twitter](https://x.com/PrivyFi) | –      |
 
 #### Dark Pool
 
-| Protocol      | Category  | Description                      | Website | Twitter/X                             | Status |
-| ------------- | --------- | -------------------------------- | ------- | ------------------------------------- | ------ |
-| Lumina Engine | Dark Pool | Verifiable-privacy trading infra | –       | [Twitter](https://x.com/LuminaEngine) | WIP    |
-| Linum Labs    | Dark Pool | Compliant Dark Pool Using MPC    | –       | –                                     | WIP    |
+| Protocol      | Category  | Description                      | Website                                 | Twitter/X                             | GitHub |
+| ------------- | --------- | -------------------------------- | --------------------------------------- | ------------------------------------- | ------ |
+| Lumina Engine | Dark Pool | Verifiable-privacy trading infra | [Website](https://www.luminaengine.ai/) | [Twitter](https://x.com/LuminaEngine) | –      |
 
 #### Infra / Tooling
 
-| Protocol   | Category        | Description              | Website | Twitter/X | Status |
-| ---------- | --------------- | ------------------------ | ------- | --------- | ------ |
-| Walnut     | Infra / Tooling | Miden Playground         | –       | –         | WIP    |
-| Demox Labs | Infra / Tooling | Wallet and WebClient SDK | –       | –         | WIP    |
-| Nethermind | Infra / Tooling | Private Transport Bus    | –       | –         | WIP    |
+| Protocol   | Category        | Description              | Website                                         | Twitter/X                              | GitHub                                                       |
+| ---------- | --------------- | ------------------------ | ----------------------------------------------- | -------------------------------------- | ------------------------------------------------------------ |
+| Walnut     | Infra / Tooling | Miden Playground         | [Website](https://miden-playground.vercel.app/) | [Twitter](https://x.com/walnut_dev)    | [Github](https://github.com/walnuthq/miden-playground)       |
+| Demox Labs | Infra / Tooling | Wallet and WebClient SDK | [Website](https://www.demoxlabs.xyz/)           | [Twitter](https://x.com/theLeoWallet)  | [Github](https://github.com/demox-labs)                      |
+| Nethermind | Infra / Tooling | Private Transport Bus    | [Website](https://www.nethermind.io/)           | [Twitter](https://x.com/NethermindEth) | [Github](https://github.com/0xMiden/miden-private-transport) |
 
 ### Contributing
 
