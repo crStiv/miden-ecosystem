@@ -4,7 +4,6 @@ A community-maintained list of projects building on [Miden](https://miden.xyz/ec
 
 ### Table of contents
 
-- [Table of contents](#table-of-contents)
 - [Projects](#projects)
   - [Payments](#payments)
   - [Bridge](#bridge)
@@ -23,7 +22,7 @@ A community-maintained list of projects building on [Miden](https://miden.xyz/ec
 
 | Protocol     | Category | Description                   | Website                         | Twitter/X                             | Status  |
 | ------------ | -------- | ----------------------------- | ------------------------------- | ------------------------------------- | ------- |
-| Qash Finance | Payments | Programmable Private Payments | [Website](https://qash.finance) | [Twitter](https://x.com/qash_finance) | Testnet |
+| Qash | Payments | Programmable Private Payments | [Website](https://qash.finance) | [Twitter](https://x.com/qash_finance) | Testnet |
 
 #### Bridge
 
@@ -35,15 +34,15 @@ A community-maintained list of projects building on [Miden](https://miden.xyz/ec
 
 | Protocol             | Category | Description                            | Website                                   | Twitter/X | Status  |
 | -------------------- | -------- | -------------------------------------- | ----------------------------------------- | --------- | ------- |
-| Miden Browser Wallet | Wallet   | In-browser Wallet for Easy Payments    | [Website](https://midenbrowserwallet.com) | –         | Testnet |
-| Miden Wallet (Ext.)  | Wallet   | Privacy-first browser extension wallet | [Website](https://miden.fi)               | –         | Testnet |
+| Miden Browser Wallet | Wallet   | In-browser Wallet for Easy Payments    | [Website](https://midenbrowserwallet.com) | [Twitter](https://x.com/0xnullifier)         | Testnet |
+| Miden Wallet (Ext.)  | Wallet   | Privacy-first browser extension wallet | [Website](https://miden.fi)               | [Twitter](https://x.com/MidenWallet)         | Testnet |
 
 #### DEX / AMM
 
 | Protocol          | Category  | Description                        | Website | Twitter/X                           | Status |
 | ----------------- | --------- | ---------------------------------- | ------- | ----------------------------------- | ------ |
-| Zoro (by NablaFi) | DEX / AMM | Public/Private Oracle-informed AMM | –       | [Twitter](https://x.com/NablaFi)    | WIP    |
-| Encrype           | DEX / AMM | AI-powered OTC trading for Miden   | –       | [Twitter](https://x.com/useencrype) | WIP    |
+| Zoro (by NablaFi) | DEX / AMM | Public/Private Oracle-informed AMM | [Website](https://www.nabla.fi/)       | [Twitter](https://x.com/NablaFi)    | WIP    |
+| Encrype           | DEX / AMM | AI-powered OTC trading for Miden   | [Website](http://encrype.com/)       | [Twitter](https://x.com/useencrype) | WIP    |
 
 #### Multisig
 
