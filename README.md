@@ -14,6 +14,7 @@ A community-maintained list of projects building on [Miden](https://miden.xyz/ec
   - [Lending](#lending)
   - [Dark Pool](#dark-pool)
   - [Infra / Tooling](#infra--tooling)
+  - [Developer Starter Pack](#developer-starter-pack)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -71,6 +72,14 @@ A community-maintained list of projects building on [Miden](https://miden.xyz/ec
 | Walnut     | Infra / Tooling | Miden Playground         | [Website](https://miden-playground.vercel.app/) | [Twitter](https://x.com/walnut_dev)    | [Github](https://github.com/walnuthq/miden-playground)       |
 | Demox Labs | Infra / Tooling | Wallet and WebClient SDK | [Website](https://www.demoxlabs.xyz/)           | [Twitter](https://x.com/theLeoWallet)  | [Github](https://github.com/demox-labs)                      |
 | Nethermind | Infra / Tooling | Private Transport Bus    | [Website](https://www.nethermind.io/)           | [Twitter](https://x.com/NethermindEth) | [Github](https://github.com/0xMiden/miden-private-transport) |
+
+#### Developer Starter Pack
+
+| Protocol                   | Category    | Description                                        | Website                                               | GitHub                                                               |
+| -------------------------- | ----------- | -------------------------------------------------- | ----------------------------------------------------- | -------------------------------------------------------------------- |
+| Front End Starter Template | Development | Frontend starter template for building Miden dApps | –                                                     | [Github](https://github.com/ngjupeng/miden-starter-template)         |
+| Counter dApp               | Development | Simple counter dApp with smart contract            | [Website](https://miden-counter-contract.vercel.app/) | [Github](https://github.com/partylikeits1983/miden-counter-contract) |
+| MASM Starter Template      | Development | Smart contract starter template                    | –                                                     | [Github](https://github.com/partylikeits1983/masm-project-template)  |
 
 ### Contributing
 
