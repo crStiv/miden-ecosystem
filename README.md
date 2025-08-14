@@ -47,22 +47,22 @@ A community-maintained list of projects building on [Miden](https://miden.xyz/ec
 
 #### Multisig
 
-| Protocol    | Category | Description                           | Website | Twitter/X                            | GitHub                                                   |
-| ----------- | -------- | ------------------------------------- | ------- | ------------------------------------ | -------------------------------------------------------- |
-| Elder       | Multisig | Privacy-preserving multisig for teams | –       | [Twitter](https://x.com/0xElderLabs) | –                                                        |
-| Inicio Labs | Multisig | Private Multisig Solution             | –       | –                                    | [Github](https://github.com/inicio-labs/miden-multi-sig) |
+| Protocol    | Category | Description               | Website | Twitter/X                            | GitHub                                                   |
+| ----------- | -------- | ------------------------- | ------- | ------------------------------------ | -------------------------------------------------------- |
+| Elder       | Multisig | Private Multisig Solution | –       | [Twitter](https://x.com/0xElderLabs) | –                                                        |
+| Inicio Labs | Multisig | Private Multisig Solution | –       | –                                    | [Github](https://github.com/inicio-labs/miden-multi-sig) |
 
 #### Lending
 
-| Protocol | Category | Description                         | Website                         | Twitter/X                        | GitHub |
-| -------- | -------- | ----------------------------------- | ------------------------------- | -------------------------------- | ------ |
-| PrivyFi  | Lending  | Lending primitives for private DeFi | [Website](https://privyfi.com/) | [Twitter](https://x.com/PrivyFi) | –      |
+| Protocol | Category | Description                                                                  | Website                         | Twitter/X                        | GitHub |
+| -------- | -------- | ---------------------------------------------------------------------------- | ------------------------------- | -------------------------------- | ------ |
+| PrivyFi  | Lending  | A revolutionary lending, borrowing, and staking protocol on Miden blockchain | [Website](https://privyfi.com/) | [Twitter](https://x.com/PrivyFi) | –      |
 
 #### Dark Pool
 
-| Protocol      | Category  | Description                      | Website                                 | Twitter/X                             | GitHub |
-| ------------- | --------- | -------------------------------- | --------------------------------------- | ------------------------------------- | ------ |
-| Lumina Engine | Dark Pool | Verifiable-privacy trading infra | [Website](https://www.luminaengine.ai/) | [Twitter](https://x.com/LuminaEngine) | –      |
+| Protocol      | Category  | Description                                                                  | Website                                 | Twitter/X                             | GitHub |
+| ------------- | --------- | ---------------------------------------------------------------------------- | --------------------------------------- | ------------------------------------- | ------ |
+| Lumina Engine | Dark Pool | Institutional-grade privacy infrastructure for next-generation transactions. | [Website](https://www.luminaengine.ai/) | [Twitter](https://x.com/LuminaEngine) | –      |
 
 #### Infra / Tooling
 
