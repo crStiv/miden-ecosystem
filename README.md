@@ -24,7 +24,7 @@ A community-maintained list of projects building on [Miden](https://miden.xyz/ec
 
 | Protocol | Category | Description                   | Website                         | Twitter/X                             | GitHub                                   |
 | -------- | -------- | ----------------------------- | ------------------------------- | ------------------------------------- | ---------------------------------------- |
-| Qash     | Payments | Programmable Private Payments | [Website](https://qash.finance) | [Twitter](https://x.com/qash_finance) | [Github](https://github.com/q3x-finance) |
+| Qash     | Payments | Programmable Private Payments | [Website](https://qash.finance) | [Twitter](https://x.com/qash_finance) | [Github](https://github.com/qash-finance) |
 
 #### Bridge
 
